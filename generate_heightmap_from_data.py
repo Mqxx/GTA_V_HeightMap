@@ -3,7 +3,7 @@ import numpy as np
 from PIL import Image
 import os
 
-# ======= NEUE PARAMETER (aus C#-Skript übernehmen) ======= #
+# ======= NEUE PARAMETER (aus C#-Skript übernehmen) https://github.com/gta-op/heightmap/blob/master/HeightMapGenerator.cs ======= #
 Columns = 300
 Rows = 90
 SizeX = 30
